@@ -1,0 +1,38 @@
+commit 2987798e275fac5119c41bc7583f7673e0ec582f (HEAD -> main, origin/main)
+Author: DogannM <canmrnc2620@gmail.com>
+Date:   Fri Jan 17 20:44:22 2025 +0300
+
+    Correction Commit.
+
+commit a463435763f2da57c5d2a69e91ae99ac35592eea (feat)
+Author: DogannM <canmrnc2620@gmail.com>
+Date:   Fri Jan 17 20:35:57 2025 +0300
+
+    Classification statement merged Calculatior.
+
+commit 8f1bbc325650f187e37d138a4ea09eda86af388c (origin/feat)
+Author: DogannM <canmrnc2620@gmail.com>
+Date:   Fri Jan 17 20:32:30 2025 +0300
+
+    Classification function created.
+
+commit b3aecd353da25fd64e7395a05765a9e5ab8ed18b
+Author: DogannM <canmrnc2620@gmail.com>
+Date:   Fri Jan 17 20:18:06 2025 +0300
+
+    Classification Has been created.
+
+commit 9ea92b7669450a90a4f396f7e200785989d7bf06
+Author: DogannM <canmrnc2620@gmail.com>
+Date:   Fri Jan 17 20:04:38 2025 +0300
+
+     BMI function created.
+
+commit d0a3945fb1a3e5d6fa74ee7f61c2066e7faa4ce2
+Author: DogannM <canmrnc2620@gmail.com>
+Date:   Fri Jan 17 19:27:33 2025 +0300
+
+    calculatior created.
+
+
+all Commit history has been added.
